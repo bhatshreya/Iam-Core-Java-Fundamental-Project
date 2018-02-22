@@ -1,0 +1,4 @@
+févr. 22, 2018 5:16:48 PM epita.fr.fundamental.project.Create_Identity main
+SEVERE: Error Log
+févr. 22, 2018 5:16:48 PM epita.fr.fundamental.project.Create_Identity main
+INFO: Class Insert execution complete
